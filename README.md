@@ -1,6 +1,6 @@
 # Clustering
 
-**K-Means Clustering**
+**1. K-Means Clustering**
 
 - Assume K = 3 (# of clusters)
 
@@ -15,3 +15,12 @@
 - Repeat step 3 - 5.
 
 - Continue till we dont have to move any datapoint closer to any other centroid.
+
+
+**2. Cluster Profiling**
+
+**3. How to select K-value**
+
+- Plot Elbow graph/ Scree Plot
+
+- 
