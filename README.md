@@ -18,6 +18,8 @@
 
   - Centroid Linkage - Find centroids of each clusters and find the distance between their centroids.
 
+- If the data has both binary and numerical data. First convert the binary categorical data to 0 & 1 and standardize the numerical data. And perform heirarchical clustering on it.
+
 
 **2. K-Means Clustering**
 
