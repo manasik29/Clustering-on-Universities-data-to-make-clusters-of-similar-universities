@@ -39,7 +39,7 @@
 
 - Continue till we dont have to move any datapoint closer to any other centroid.
 
-**Cluster Profiling**
+**Cluster Profiling** - Naming the cluster according to the common characteristics of the points in it.
 
 **How to select K-value**
 
