@@ -1,5 +1,24 @@
 # Clustering
 
+**1. Heirarchical Clustering**
+
+- It is a bottom to top approach. 
+
+- Find the euclidian distance between two points. Club closest point in one cluster.
+
+- Then find the euclidian distance between two cluster / distance between one cluster and one point. We will again club the shortest distance in one cluster.
+
+- Method to calculate euclidian distance
+
+  - Single Linkage - shortest distance between 2 points in clusters.
+
+  - Average Linkage - largest distance between 2 points in clusters.
+
+  - Complete Linkage - Average of distance between all points in clusters.
+
+  - Centroid Linkage - Find centroids of each clusters and find the distance between their centroids.
+
+
 **1. K-Means Clustering**
 
 - Assume K = 3 (# of clusters)
