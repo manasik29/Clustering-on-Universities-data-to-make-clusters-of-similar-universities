@@ -23,6 +23,8 @@
 
 **2. K-Means Clustering**
 
+- Mostly used for practical uses. Will be used in industry frequently.
+
 - Assume K = 3 (# of clusters)
 
 - Find centroid for each partition
