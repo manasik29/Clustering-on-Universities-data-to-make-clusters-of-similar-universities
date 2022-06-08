@@ -19,7 +19,7 @@
   - Centroid Linkage - Find centroids of each clusters and find the distance between their centroids.
 
 
-**1. K-Means Clustering**
+**2. K-Means Clustering**
 
 - Assume K = 3 (# of clusters)
 
@@ -35,11 +35,13 @@
 
 - Continue till we dont have to move any datapoint closer to any other centroid.
 
+**Cluster Profiling**
 
-**2. Cluster Profiling**
-
-**3. How to select K-value**
+**How to select K-value**
 
 - Plot Elbow graph/ Scree Plot
+
+
+**3. DBSCAN**
 
 - 
