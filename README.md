@@ -71,3 +71,11 @@
 - Border point
 
 - Noisy point
+
+**Disadvantage of DBSCAN**
+
+- Difficult with data whose density is low.
+
+- It is an itterative procedure to determine eps and minpoints.
+
+- computational complexity.
