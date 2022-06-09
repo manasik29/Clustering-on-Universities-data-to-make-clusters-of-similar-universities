@@ -48,4 +48,26 @@
 
 **3. DBSCAN**
 
-- 
+- DBSCAN - Density Based Spatial Clustering of Application with Noise.
+
+**Disadvantages of K-Means** - 
+ 
+1. Cannot be used on data with noise(outliers).
+
+2. K-Means does not perform well on non-spherical data. DBSCAN does.
+
+3. We have to priorly determine the value of k in K-Means.
+
+- DBSCAN is used for non-spherical data and also where data has lot of outliers, it will identify tehm seperately.
+
+**Important Terminology for DBSCAN**
+
+- epsilone - User given parameter - Defines size and borders of each neighbourhood. It will depend on domain and we have to trial and error dependeing how many outliers are we getting. 
+
+- Minpoints - User given parameters - Min number of points in neighnourhood to call it a dense region. Density Threshold. Generally choose minpoints >= D+1. D = no. of columns.
+
+- Core point - 
+
+- Border point
+
+- Noisy point
