@@ -1,4 +1,4 @@
-# Clustering
+# Perform Clustering on Universities data to make clusters of similar universities
 
 **1. Heirarchical Clustering**
 
